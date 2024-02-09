@@ -1,2 +1,1 @@
-# quickquick
-LasgDesk
+quickquick
